@@ -33,5 +33,6 @@ This E-Commerce Website which has a products for only Women's. This wenbsite sho
   ## You can Visit the Website through this Link :
      https://123sheela.github.io/E-Commerce-Website/
 
+ ### while visting the website, it may take some time to load the page properly with the images, so wait for few minutes to visit the website properly 
   ## Contribution
   Contributions are always Welcome from the community to help improve My E-Commerce Website. If you have any ideas, suggestions, or bug fixes, feel free to submit a pull request or open an issue on GitHub.
