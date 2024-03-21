@@ -11,12 +11,12 @@ This E-Commerce Website which has a products for only Women's. This wenbsite sho
 - **Discounts and Promotions:** Take advantage of our exclusive discounts, promotions, and special offers to maximize savings on your purchases. Stay updated on the latest deals and discounts by subscribing to our newsletter.
 - **Responsive Design:** Access our website seamlessly from any device, including desktops, tablets, and smartphones. Our responsive design ensures that you enjoy a consistent and optimized shopping experience across all platform
 
-  ## Technologies Used:
+## Technologies Used:
   - **HTML**
   - **CSS**
   - **JavaScript**
 
-  ## Installation:
+## Installation:
    To run this project locally, follow these steps:
 
   1. Clone the repository:
@@ -30,9 +30,9 @@ This E-Commerce Website which has a products for only Women's. This wenbsite sho
   5. Start the server
   6. Open your browser to view the website.
  
-  ## You can Visit the Website through this Link :
+## You can Visit the Website through this Link :
      https://123sheela.github.io/E-Commerce-Website/
 
- ### while visting the website, it may take some time to load the page properly with the images, so wait for few minutes to visit the website properly 
-  ## Contribution
+### while visting the website, it may take some time to load the page properly with the images, so wait for few minutes to visit the website properly 
+## Contribution
   Contributions are always Welcome from the community to help improve My E-Commerce Website. If you have any ideas, suggestions, or bug fixes, feel free to submit a pull request or open an issue on GitHub.
