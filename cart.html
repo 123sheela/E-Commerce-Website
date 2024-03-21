@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce</title> <!--Title of the website-->
+    <!--Fontawesome web-->
+    <script src="https://kit.fontawesome.com/13e9c72c7f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main content starts from here -->
+    <section id="header"> 
+        <a href="#"> <!--Logo-->
+            <img src="img/Home/Logo.png" class="Logo" alt="" width="150" height="150">
+        </a>
+        <div>
+            <ul id="navbar"> <!-- Navigation bar container-->
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a class="active" href="cart.html"><i class="fas fa-bag-shopping"></i></a></li> <!--icon-->
+                <a href="#" id="close"><i class="fas fa-times"></i></a>
+            </ul>
+        </div>
+        <!-- hamburger menu -->
+        <div class="mobile">
+            <a class="active" href="cart.html"><i class="fas fa-bag-shopping"></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+        </div>
+    </section>
+    <!-- ccart header section -->
+    <section id="cart">
+        <div class="cart-add">
+        <h2> #Cart</h2>
+        <p>Add your Coupon Code and Save upto 70%</p>
+        </div>
+    </section> 
+    
+    <section id="Add-Cart" class="Section-p1">
+        <table width="100%">
+            <!-- table head -->
+            <thead>
+                <tr>
+                    <td>Remove</td>
+                    <td>Image</td>
+                    <td>Product</td>
+                    <td>Price</td>
+                    <td>Quantity</td>
+                    <td>Subtotal</td>
+                </tr>
+            </thead>
+            <!-- table body -->
+            <tbody>
+                <!-- product 1 -->
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="./img/ABCD/A1.png" alt=""></td>
+                    <td>Urban Retro Dress</td>
+                     <td>$120.00</td>
+                     <td><input type="number" value="1"></td>
+                     <td>$120.00</td>
+                </tr>
+                <!-- product 1 -->
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="./img/ABCD/B2.png" alt=""></td>
+                    <td>Urban Retro Dress</td>
+                     <td>$130.00</td>
+                     <td><input type="number" value="1"></td>
+                     <td>$130.00</td>
+                </tr>
+                <!-- product 1 -->
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="./img/ABCD/C2.png" alt=""></td>
+                    <td>Urban Retro Dress</td>
+                     <td>$150.00</td>
+                     <td><input type="number" value="1"></td>
+                     <td>$150.00</td>
+                </tr>
+                <!-- product 4 -->
+                <tr>
+                    <td><a href=""><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="./img/EFGH/F1.png" alt=""></td>
+                    <td>Urban Retro Dress</td>
+                     <td>$170.00</td>
+                     <td><input type="number" value="1"></td>
+                     <td>$170.00</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <!-- cart coupon -->
+    <section id ="coupon" class="Section-p1">
+        <div class="add-coupon">
+            <h3>Apply Coupon</h3>
+            <div>
+                <input type="text" placeholder="Enter Your Coupon Code">
+                <button class="normal">Apply</button>
+            </div>
+        </div>
+        <div class="delivery">
+            <h3>Cart Totals</h3>
+            <table>
+                <tr>
+                    <td>Cart Subtotal</td>
+                    <td>$570.00</td>
+                </tr>
+                <tr>
+                    <td>Shipping</td>
+                    <td>Free</td>
+                </tr>
+                <tr>
+                    <td><strong>Total</strong></td>
+                    <td><strong>$570.00</strong></td>
+                </tr>
+            </table>
+            <button class="normal">Proceed to Deliver</button>
+        </div>
+
+    </section>
+
+   <!-- footer section -->
+   <footer class="Section-p1">
+    <!-- col1 -->
+    <div class="col1">
+        <img src="./img/Home/Logo.png" alt="">
+        <h4>Contact</h4>
+        <p><strong>Address: </strong>  Road, ABCD street, XYZ</p>
+        <p><strong>Phone: </strong>  +91 98765 43210</p>
+        <p><strong>Hours: </strong> 10.00 AM - 8.00 PM Mon-Sat </p>
+          <div class="follow">
+            <h4>Follow Us</h4>
+                <i class="fab fa-facebook-f"> </i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-pinterest-p"></i>
+                <i class="fab fa-youtube"></i>
+          </div>
+    </div>
+    <!-- col2 -->
+    <div class="col2">
+        <h4>About</h4>
+        <a href="#">About Us</a>
+        <a href="#">Delivery Information</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms & Conditions</a>
+        <a href="#">Contact Us</a>
+    </div>
+    <!-- col3 -->
+    <div class="col3">
+        <h4>My Account</h4>
+        <a href="#">Sign In</a>
+        <a href="#">View Cart</a>
+        <a href="#">My Wishlist</a>
+        <a href="#">Track My Order</a>
+        <a href="#">Help</a>
+    </div>
+    <!-- col4 -->
+    <div class="col4">
+        <h4>Install App</h4>
+        <div class="r">
+            <p>From App Store or Google Play</p>
+            <img src="img/Home/playstore.png" alt="">
+        </div>
+        <div class="r1">
+            <img src="img/Home/apple.png" alt="">
+        </div>
+        <div class="row">
+            <p>Secured Payment Gateways</p>
+            <img src="img/Home/visa.png" alt="">
+        </div>
+    </div>
+    <!-- copyrights -->
+    <div class="copyright">
+        <p>© 2024.Tech-HTML CSS E-Commerce</p>
+    </div>
+   </footer>
+    <script src="script.js"></script>
+</body>
+</html>
