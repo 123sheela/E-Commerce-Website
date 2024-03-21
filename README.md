@@ -31,7 +31,7 @@ This E-Commerce Website which has a products for only Women's. This wenbsite sho
   6. Open your browser to view the website.
  
 ## You can Visit the Website through this Link :
-     https://123sheela.github.io/E-Commerce-Website/
+  https://123sheela.github.io/E-Commerce-Website/
 
 ### while visting the website, it may take some time to load the page properly with the images, so wait for few minutes to visit the website properly 
 ## Contribution
