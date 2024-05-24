@@ -1,7 +1,7 @@
 # My E-Commerce Website!
 
 Welcome to My E-Commerce Website, your ultimate destination for online shopping! This platform offers a diverse range of products, from fashion and it has a huge category, catering to all your needs under one roof.
-This E-Commerce Website which has a products for only Women's. This wenbsite showcase the huge varieties of Women's Fashion.
+This E-Commerce Website which has a products for only Women's. This website showcase the huge varieties of Women's Fashion.
 
 ## Features
 - **Product Catalog:** Explore our extensive product catalog featuring varieties of items across various categories which you're looking for the latest fashion trends..
